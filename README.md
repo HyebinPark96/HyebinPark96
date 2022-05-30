@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=250&section=header&text=Hyebin%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+<center> ![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=250&section=header&text=Hyebin%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </cener>
 
 <h3 align="center"><b>📚 STACKS 📚</b></h3>
 </br>
@@ -19,4 +19,5 @@
 <p align="center">
 <a href="bin88.tistory.com"><img src="http://img.shields.io/badge/-Tistory-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyebinPark96&layout=compact)](https://github.com/****/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyebinPark96&layout=compact)](https://github.com/HyebinPark96/github-readme-stats)
