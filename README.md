@@ -15,6 +15,6 @@
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
-<a href="bin88.tistory.com"><img src="http://img.shields.io/badge/-Tistory-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
+<a href="https://bin88.tistory.com"><img src="http://img.shields.io/badge/-Tistory-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyebinPark96&layout=compact)](https://github.com/HyebinPark96/github-readme-stats)
