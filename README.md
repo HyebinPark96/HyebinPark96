@@ -1,5 +1,6 @@
 <!--이모지 출처 : https://gist.github.com/rxaviers/7360908-->
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=250&section=header&text=Hyebin%20Park&fontSize=100&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyebinPark96&layout=compact)](https://github.com/HyebinPark96/github-readme-stats)
 
 <h3 align="center"><b>📚 STACKS 📚</b></h3>
@@ -19,3 +20,6 @@
 <p align="center">
 <a href="https://bin88.tistory.com"><img src="http://img.shields.io/badge/-Tistory-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
+
