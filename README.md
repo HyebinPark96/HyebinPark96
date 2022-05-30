@@ -1,4 +1,4 @@
-<center> ![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=250&section=header&text=Hyebin%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </cener>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=random&height=250&section=header&text=Hyebin%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <h3 align="center"><b>📚 STACKS 📚</b></h3>
 </br>
