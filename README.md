@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/apache tomcat-brown?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse IDE-gray?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 </p>
-<h3 align="center"><b>💌 Social 💌 </b></h3>
+<h3 align="center"><b>💌 SOCIAL 💌 </b></h3>
 </br>
 <p align="center">
 <a href="https://bin88.tistory.com"><img src="http://img.shields.io/badge/-Tistory-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
