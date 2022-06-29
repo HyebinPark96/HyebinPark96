@@ -3,16 +3,15 @@
 <h3 align="center"><b>📚 STACKS 📚</b></h3>
 </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-yellow?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-green?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-navy?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-brown?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse IDE-gray?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-navy?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 </p>
 <h3 align="center"><b>💌 SOCIAL 💌 </b></h3>
 </br>
